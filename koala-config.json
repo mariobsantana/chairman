@@ -1,0 +1,40 @@
+
+{
+	"mappings": [
+		{	
+			"src": "scss",
+			"dest": "css"
+		}
+	],
+
+	"ignores": ["*.css", "*.json", "*.txt", "*.js", "node_modules/"],
+
+	
+	"options": {
+
+		
+		"outputStyle": "expanded",
+
+		
+		"lineComments": false,
+
+		
+		"debugInfo": false,
+
+	
+		"sourceMap": false,
+
+	
+		"unixNewlines": false,
+
+        
+        "autoprefix": false
+	},
+
+	
+	"customOptions": [],
+
+	"includePaths": [],
+
+	"requireLibs": []
+}
